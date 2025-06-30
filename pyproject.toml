@@ -1,0 +1,47 @@
+[project]
+name = "fish-rotations"
+version = "0.1.0"
+description = "Проект по анализу выходных данных лабораторной установки по слежению за движением рыб Zebradanio-rerio"
+authors = [
+    {name = "iGhostCat",email = "alfa-1002@mail.ru"}
+]
+license = {text = "None"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chardet (>=5.2.0,<6.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.group.lint.dependencies]
+flake8 = "^7.2.0"
+mypy = "^1.15.0"
+black = "^25.1.0"
+isort = "^6.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+pytest-cov = "^6.1.1"
+
+
+[tool.mypy]
+disallow_untyped_defs = true
+no_implicit_optional = true
+warn_return_any = true
+exclude = 'venv'
+
+[tool.black]
+# Максимальная длина строки
+line-length = 119
+# Файлы, которые не нужно форматировать
+exclude = '.git'
+
+[tool.isort]
+# максимальная длина строки
+line_length = 119

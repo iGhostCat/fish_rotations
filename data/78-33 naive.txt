@@ -1,0 +1,125 @@
+<header>
+RTComments=
+DataPeriod=10000
+TimeMeasure=c
+</header>
+<table>
+key	event	time	dur	time2
+Close				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_132529_007.MP4
+Reset				
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_131402_006.MP4
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_131749_028.MP4
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_132529_007.MP4
+Reset		31,12		78 naive
+Up	white	0.42	299.82	0:00
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_132920_029.MP4
+Reset		29,82		25 naive
+Up	white	1.62	39.38	0:01
+Down	black	41	259.22	0:41
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_133625_008.MP4
+Reset		50,22		36 naive
+Up	white	1.21	85.68	0:01
+Down	black	86.89	213.29	01:26
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_134012_030.MP4
+Reset		45,93		70 naive
+Up	white	1.23	11.33	0:01
+Down	black	12.56	55.24	0:12
+Up	white	67.8	19.95	01:07
+Down	black	87.29	34.13	01:27
+Up	white	121.42	0.84	02:01
+Down	black	122.26	13.78	02:02
+Up	white	136.04	1.21	02:16
+Down	black	137.25	66.29	02:17
+Up	white	203.54	9.27	03:23
+Down	black	212.81	12.19	03:32
+Up	white	225	1.23	03:45
+Down	black	226.23	6.08	03:46
+Up	white	231.94	21.94	03:51
+Down	black	253.88	7.31	04:13
+Up	white	261.19	18.66	04:21
+Down	black	279.85	10.59	04:39
+Up	white	290.44	9.75	04:50
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_134738_009.MP4
+Reset		24,34		47 naive
+Up	white	0.77	290.06	0:00
+Down	black	290.83	4.5	04:50
+Up	white	295.33	0.75	04:55
+Down	black	295.72	4.49	04:55
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_135125_031.MP4
+Reset		22,45		73 naive
+Up	white	0.85	144.56	0:00
+Down	black	145.41	6.09	02:25
+Up	white	151.5	51.19	02:31
+Down	black	202.69	30.93	03:22
+Up	white	233.62	11.36	03:53
+Down	black	244.98	37.3	04:04
+Up	white	282.28	7.42	04:42
+Down	black	289.7	10.5	04:49
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_135830_010.MP4
+Reset		23,81		60 naive
+Up	white	0.88	23.9	0:00
+Down	black	24.41	50.81	0:24
+Up	white	75.22	5.63	01:15
+Down	black	80.47	25.6	01:20
+Up	white	106.07	0.37	01:46
+Down	black	106.44	132.08	01:46
+Up	white	238.52	0.38	03:58
+Down	black	238.9	61.31	03:58
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_140220_032.MP4
+Reset		27,38		11 naive
+Down	black	1.21	1.98	0:01
+Up	white	3.19	1.69	0:03
+Down	black	4.88	4.87	0:04
+Up	white	9.75	1.6	0:09
+Down	black	11.35	5.23	0:11
+Up	white	16.58	15.49	0:16
+Down	black	32.07	9.74	0:32
+Up	white	41.81	1.59	0:41
+Down	black	43.4	256.79	0:43
+Exit		300		
+Open				
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_140959_011.MP4
+Reset		0		20 naive
+Up	white	26.51	102.37	0:26
+Down	black	128.88	4.88	02:08
+Up	white	133.76	2.45	02:13
+Down	black	136.21	137.7	02:16
+Up	white	273.91	2.44	04:33
+Down	black	276.35	23.91	04:36
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_141353_033.MP4
+Reset		28,01		87 naive
+Up	white	1.26	298.96	0:01
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_142143_012.MP4
+Reset		21,16		22 naive
+Up	white	0.78	86.17	0:00
+Down	black	86.95	0.75	01:26
+Up	white	87.7	2.05	01:27
+Down	black	89.38	1.59	01:29
+Up	white	90.97	64.6	01:30
+Down	black	155.57	68.25	02:35
+Up	white	223.45	1.58	03:43
+Down	black	225.03	62.54	03:45
+Up	white	287.57	6.09	04:47
+Down	black	293.66	6.56	04:53
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_142529_034.MP4
+Reset		39,08		33 naive
+Down	black	0.78	177.57	0:00
+Up	white	177.87	2.91	02:57
+Down	black	180.78	16.6	03:00
+Up	white	197	0.85	03:17
+Down	black	197.85	13.4	03:17
+Up	white	211.25	11.35	03:31
+Down	black	222.6	19.5	03:42
+Up	white	242.1	4.5	04:02
+Down	black	246.13	54.09	04:06
+Exit		300		

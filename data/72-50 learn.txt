@@ -1,0 +1,136 @@
+<header>
+RTComments=
+DataPeriod=10000
+TimeMeasure=c
+</header>
+<table>
+key	event	time	dur	time2
+Open				E:\DCIM\¿‘ƒ‘…‘‚¸½ CPA\2025_0122_130721_038.MP4
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_121536_001.MP4
+Reset		35,14		72 learn
+Up	white	0.75	217.4	0:00
+Down	black	218.15	82.02	03:38
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_121922_023.MP4
+Reset		29,28		93 leanr
+Up	white	0.81	292.88	0:00
+Down	black	293.69	6.47	04:53
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_122851_002.MP4
+Reset		16,95		63 learn
+Up	white	0.82	1.2	0:00
+Down	black	1.65	2.44	0:01
+Up	white	4.09	248.16	0:04
+Down	black	251.87	48.28	04:11
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_123238_024.MP4
+Reset		12,69		45 learn
+Up	white	0.87	47.92	0:00
+Down	black	48.79	6.09	0:48
+Up	white	54.88	0.83	0:54
+Down	black	55.71	1.23	0:55
+Up	white	56.94	62.15	0:56
+Down	black	119.09	0.37	01:59
+Up	white	120.68	179.54	02:00
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_124016_003.MP4
+Reset		24,32		30 learn
+Up	white	0.35	32.53	0:00
+Down	black	32.5	119	0:32
+Up	white	151.95	74.71	02:31
+Down	black	226.66	73.5	03:46
+Exit		300		
+Open				
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_124403_025.MP4
+Reset		16,3		26 learn
+Up	white	3.27	45.1	0:03
+Up	white	64.2	0	01:04
+Down	black	48.37	16.21	0:48
+Up	white	64.58	0.85	01:04
+Down	black	64.96	39	01:04
+Up	white	103.59	0.37	01:43
+Down	black	103.96	38.62	01:43
+Up	white	142.58	2.07	02:22
+Down	black	144.65	19.02	02:24
+Up	white	163.67	2.08	02:43
+Down	black	165.75	18.64	02:45
+Up	white	184.39	2.44	03:04
+Down	black	186.46	5.25	03:06
+Up	white	191.33	1.24	03:11
+Down	black	192.18	21.94	03:12
+Up	white	214.12	0.75	03:34
+Down	black	214.87	10.12	03:34
+Up	white	224.99	0.48	03:44
+Down	black	225.47	15.84	03:45
+Up	white	241.31	0.84	04:01
+Down	black	242.15	24.76	04:02
+Up	white	266.91	0.37	04:26
+Down	black	267.28	24	04:27
+Up	white	291.28	2.05	04:51
+Down	black	292.87	7.31	04:52
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_125152_004.MP4
+Reset		30,02		67 learn
+Up	white	0.78	52.89	0:00
+Down	black	53.67	1.2	0:53
+Up	white	54.87	1.23	0:54
+Down	black	56.1	121.4	0:56
+Up	white	177.5	0.47	02:57
+Down	black	177.97	122.26	02:57
+Exit		300		
+Open				
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_125539_026.MP4
+Reset		24,73		53 learn
+Up	white	1.23	148.21	0:01
+Down	black	149.07	28.4	02:29
+Up	white	177.47	3.29	02:57
+Down	black	180.76	119.44	03:00
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_130318_005.MP4
+Reset		0		29 learn
+Up	white	38.77	251.06	0:38
+Down	black	289.83	10.23	04:49
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_130705_027.MP4
+Reset		33,12		10 learn
+Down	black	1.29	25.12	0:01
+Up	white	26.41	0.46	0:26
+Down	black	26.87	6.1	0:26
+Up	white	32.97	6.47	0:32
+Down	black	39.44	5.72	0:39
+Up	white	45.16	0.75	0:45
+Down	black	45.91	13.4	0:45
+Up	white	59.31	2.92	0:59
+Down	black	62.23	6.09	01:02
+Up	white	68.32	0.37	01:08
+Down	black	68.69	2.44	01:08
+Up	white	70.75	2.44	01:10
+Down	black	73.19	4.03	01:13
+Up	white	77.22	27.66	01:17
+Down	black	104.88	23.53	01:44
+Up	white	128.41	17.07	02:08
+Down	black	145.11	10.5	02:25
+Up	white	155.61	15.83	02:35
+Down	black	171.44	6.56	02:51
+Up	white	178	0.75	02:58
+Down	black	178.38	6.95	02:58
+Up	white	184.85	0.84	03:04
+Down	black	185.69	4.04	03:05
+Up	white	189.36	5.24	03:09
+Down	black	194.23	7.31	03:14
+Up	white	201.54	98.72	03:21
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_131402_006.MP4
+Reset		40,34		98 learn
+Up	white	1.21	275.81	0:01
+Down	black	277.02	23.16	04:37
+Exit		300		
+Open				
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_131749_028.MP4
+Reset		35,64		50 learn
+Up	white	1.63	202.78	0:01
+Down	black	204.41	0.75	03:24
+Up	white	205.16	1.7	03:25
+Down	black	206.86	93.37	03:26
+Exit		300		
+Open				E:\DCIM\CPA ¿‘€¾±° ¾±‘ƒ‘‡µ½¸‘ 14.02.25\2025_0214_132529_007.MP4
