@@ -39,9 +39,9 @@ def list_rotations_to_excel(data_list):
     print(data_df.head(10))
     filename_time = current_time
     foldername = '../data/'
-    data_df.to_excel(foldername+filename_time, index=False)
+    data_df.to_excel('../data/results.xlsx', index=False)
 
 # Использование
-data = parse_rotations('../data/50 1мг.txt')
+data = parse_rotations('../data/50 1мг.txt') # Путь к сырому файлу
 list_rotations_to_excel(data)
 
