@@ -1,6 +1,7 @@
 import pandas as pd
 import chardet
 import re
+from datetime import datetime
 
 def detect_encoding(file_path):
     with open(file_path, 'rb') as f:
@@ -17,7 +18,7 @@ print(f"Кодировка файла: {encoding}")
 
 
 def parse_rotations(file_path):
-    data = []
+    data_out = []
 
     with open(file_path, 'r', encoding='IBM866') as f:
         for line in f:
@@ -26,15 +27,21 @@ def parse_rotations(file_path):
             if line.startswith(('Right', 'Left', 'Up', 'Down')):
                 line = line.replace('\t', ' ')
                 line = line.strip()
-                print(line)
                 line_list = line.split(' ')
-                print(line_list)
-                line_dict = {'Rotation': line_list[0], 'Time_total': line_list[2], 'Time_start': line_list[3] }
-                print(line_dict)
+                line_dict = {'Rotation': line_list[0], 'Time_total': line_list[2], 'Time_start': line_list[5] }
+                data_out.append(line_dict)
 
+    return data_out
 
-
+def list_rotations_to_excel(data_list):
+    current_time = datetime.now()
+    data_df = pd.DataFrame(data_list)
+    print(data_df.head(10))
+    filename_time = current_time
+    foldername = '../data/'
+    data_df.to_excel(foldername+filename_time, index=False)
 
 # Использование
-df = parse_rotations('../data/50 1мг.txt')
+data = parse_rotations('../data/50 1мг.txt')
+list_rotations_to_excel(data)
 
